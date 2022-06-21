@@ -4,9 +4,9 @@ layout: Blog
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: qiuhong223 #TODO: 你博客的名称
+heroText: liujinlong #TODO: 你博客的名称
 heroFullScreen: true
-tagline: qqqhhh223 #TODO: 你可以在这里放置你的口号与标语
+tagline: qqqhhhloveyou #TODO: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 短视频H5 #TODO: 你自己的项目
